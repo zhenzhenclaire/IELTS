@@ -3,6 +3,8 @@
 * 第二句：解释、举例、细节扩展
 * 第三句：总结、感受
 
+通过重读表现对于答案的确定性
+
 
 ## Work
 
@@ -138,6 +140,9 @@
 * Describe an article that you have read on the magazine or from the * internet about healthy life.
 * Describe a time when someone or something made noise.
 
+
+
+# Part 2
 
 
 
