@@ -1,17 +1,20 @@
 # Section 1
 
 ## 1. 求职
-|| *Year* || *Temperature (low)* || *Temperature (high)* ||
-|| 1900 || -10 || 25 ||
-|| 1910 || -15 || 30 ||
-|| 1920 || -10 || 32 ||
 
-1. Position:waiter, receptionist, social/office/manage/teacher assistant, cleaner, reporter, babysitter
-2. Pay/hour:7 pounds 50; 7 pounds; usually 6.5-7.5
-3. Welfare: free meals(breakfast, lunch, dinner), break, training
-4. Dress code: color(white/black)
-5. Time & Location - spelling
-6. 
+| Point        | Answers           | Examples  |
+| ------------- |:-------------:| -----:|
+| Position      | waiter<br> receptionist<br> social/office/manage/teacher assistant<br> cleaner<br> reporter<br> babysitter<br> |  |
+| Pay/hour      | 7 pounds 50 <br> 7 pounds <br> 6.5-7.5(usually)  |    |
+| Welfare | free meals(breakfast, lunch, dinner)<br>  break<br>  training<br> |     |
+| Dress code | color(white/black)| shirt <br> tie <br> waist coat<br> leather shoes|
+| Time & Location(Spelling) |||
+| Materials & Arrangement | student ID card<br> driving liscense<br> reference<br> recommendation letter|||
+
+## 2. 求职
+
+
+
 
 
 
