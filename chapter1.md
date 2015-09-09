@@ -19,7 +19,7 @@
 | Time & Location      | |  |
 | Cost      | |  |
 | Aim      | |  |
-| Personal info      | |  |
+| Personal info      | | | |
 
 ## 3. 健身
 | Point        | Answers           | Examples  |
@@ -30,7 +30,7 @@
 | Membership      | class |  |
 | Time & Cost(Table)  | |  |
 | Contact | instructor<br> receptionist<br>|  |
-| Personal info |time arrangement <br> health condition| |
+| Personal info |time arrangement <br> health condition| ||
 
 ## 4. 旅游
 | Point        | Answers           | Examples  |
