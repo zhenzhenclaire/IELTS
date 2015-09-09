@@ -74,7 +74,7 @@
 | ------------- |:-------------:| -----:|
 | Type |charity organization <br> sports <br> musical <br> reading<br> | ||
 | Background knowledge | ||
-| Activites | ||
+| Activities | ||
 | Tips |||
 
 
