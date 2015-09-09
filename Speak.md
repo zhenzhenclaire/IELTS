@@ -64,6 +64,12 @@
 ## Forgetting things
 
 ## Writing 
+* Do you often write things?
+* What do you usually write?
+* Do you usually write by hand or write using a computer?
+* Do you think computers might one day replace handwriting?
+* What impression does a person’s handwriting have on other people?
+
 
 ## Museums and galleries
 
