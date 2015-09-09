@@ -113,6 +113,16 @@
 
 
 
+---
+## New topics
+* Describe a person who likes to travel by plane.
+* Describe a person who does well at work.
+* Describe a person in the news that you would like to meet.
+* Describe a family member that you have spent the most time with.
+* Describe a long walk you have had.
+* Describe an important conversation that influenced you.
+
+
 
 
 
