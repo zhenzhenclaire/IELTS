@@ -37,6 +37,11 @@
 
 
 ## Being in a hurry
+* When was the last time you did something in a hurry?
+* Do you like to finish things quickly?
+* What kinds of things will you never do in a hurry?
+* Why do people make mistakes more easily when they are in a hurry?
+
 
 ## Social network
 
