@@ -107,7 +107,10 @@
 | Audience | ||
 | Time & Location |||
 | Structure |facilities(white board, projector, poster)||
-| Do's and don's
+| Do's and don's | speak clearly <br> keep eyes contacts <br> pay attention to audience <br> audience interests <br> ||
+| Marking criteria || 
+| Some reference(books)||
+
 
 
 
