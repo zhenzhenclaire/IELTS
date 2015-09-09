@@ -107,7 +107,7 @@
 | Audience | ||
 | Time & Location |||
 | Structure |facilities(white board, projector, poster)||
-|
+| Do's and dont's
 
 
 
