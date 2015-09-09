@@ -47,6 +47,14 @@
 
 ## Mobile phones
 
+* How often do you use your mobile phone?
+* Would you buy a new phone soon?
+* Do you prefer to send text messages or to make phone calls?
+* How often do you send text messages?
+* Do you text someone if they don’t answer your call?
+* Would you say mobile phones have changed your life?
+
+
 ## Transportation
 
 ## Newspaper and magazines
