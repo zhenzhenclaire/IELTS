@@ -64,10 +64,19 @@
 | Point        | Answers           | Examples  |
 | ------------- |:-------------:| -----:|
 | Art activities | musical activities <br> ballet<br> magic show <br> instruments <br>| |
-
-| Notes | ||
+| Sports activities | basketball <br> soccer<br> run ||
 | Background knowledge | ||
+| Content(table) | ||
 | Tips |||
+
+## 3. 组织
+| Point        | Answers           | Examples  |
+| ------------- |:-------------:| -----:|
+| Type |charity organization <br> sports <br> musical <br> reading<br> | ||
+| Background knowledge | ||
+| Activies | ||
+| Tips |||
+
 
 
 
