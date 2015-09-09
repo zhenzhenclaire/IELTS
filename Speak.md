@@ -78,6 +78,7 @@
 ## Trees
 
 ## Sky
+
 * Do you like watching the sky?
 * Do you prefer to watch the sky during the day or at night?
 * Have you ever taken any courses about stars or planets?
