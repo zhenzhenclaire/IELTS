@@ -30,6 +30,11 @@
 ## Countryside
 
 ## Being alone
+* Do you like to be alone?
+* What do you like to do when you are alone?
+* Do you like to spend time with your friends or to stay at home on you own?
+* When were the last time you were being alone?
+
 
 ## Being in a hurry
 
@@ -39,8 +44,6 @@
 * Are you a sociable person?
 * Is it easy to make real friends on a social networking website?
 * What kinds of chatting apps or software do Chinese people like to use?
-
-
 
 ---
 ## Sports
