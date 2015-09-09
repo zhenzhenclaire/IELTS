@@ -111,6 +111,10 @@
 | Marking criteria || 
 | Some reference(books)||
 
+# Section 4
+Some tips: 
+* 时间 + 地点 + 特征词（引号、连字符、首字母大写） 
+
 
 
 
