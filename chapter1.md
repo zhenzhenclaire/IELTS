@@ -79,10 +79,35 @@
 
 ## 4. 课程
 
-# Section 1
+# Section 3
 
-## 1. 求职
+## 1. 论文
 
+| Point        | Answers           | Examples  |
+| ------------- |:-------------:| -----:|
+| Title & Research field|||
+| Word |||
+| Research plan |reference book <br> materials <br> draft<br> feedback <br> version ||
+| Research methodology| questionnaire(social problem) <br> interview(technology&disadvantages)<br> observation|||
+| Reference book|||
+
+## 2. 课程（选修一门课）
+
+| Point        | Answers           | Examples  |
+| ------------- |:-------------:| -----:|
+| Title & Research field|||
+| Course arrangement| ||
+| Course delivery | material <br> teacher info <br> marking criteria<br> course facility<br> ||
+| Student information |||
+
+## 3. 展示
+
+| Point        | Answers           | Examples  |
+| ------------- |:-------------:| -----:|
+| Audience | ||
+| Time & Location |||
+| Structure |facilities(white board, projector, poster)||
+|
 
 
 
