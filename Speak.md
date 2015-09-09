@@ -2,8 +2,6 @@
 
 ## Work
 
-
-
 ## Study
 
 ## Hometown
