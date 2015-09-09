@@ -54,6 +54,30 @@
 
 ## Forgetting things
 
+## Writing 
+
+## Museums and galleries
+
+## Weekends 
+
+## Public holidays
+
+## Teachers
+
+## Sleeping
+
+## Trees
+
+## Sky
+
+## Reading 
+
+## Clothes
+
+## Time management
+
+
+
 
 
 
