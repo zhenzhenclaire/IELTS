@@ -121,6 +121,26 @@
 * Describe a family member that you have spent the most time with.
 * Describe a long walk you have had.
 * Describe an important conversation that influenced you.
+* Describe a success in your life.
+* Describe a recent happy event you have had.
+* Describe something you would like to do if you were given a day off.
+* Describe a time when you forgot something important.
+* Describe an art or craft activity you did at school. 
+* Describe a long car journey you went on.
+* Describe a house or apartment that you want to live in.
+* Describe a place where you visited but only for a short period of time.
+* Describe a street you would like to visit.
+* Describe a foreign country you want to visit but haven’t been to.
+* Describe an unforgettable advertisement.
+* Describe a law about environment you would like to see in the future.
+* Describe a useful thing that you once borrowed.
+* Describe a painting or a work of art in your school.
+* Describe an article that you have read on the magazine or from the * internet about healthy life.
+* Describe a time when someone or something made noise.
+
+
+
+
 
 
 
