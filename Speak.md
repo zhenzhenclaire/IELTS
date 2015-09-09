@@ -35,6 +35,12 @@
 
 ## Social network
 
+* What kinds of social networking websites do you like to use?
+* Are you a sociable person?
+* Is it easy to make real friends on a social networking website?
+* What kinds of chatting apps or software do Chinese people like to use?
+
+
 
 ---
 ## Sports
