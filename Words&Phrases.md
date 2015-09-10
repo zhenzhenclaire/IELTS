@@ -14,4 +14,4 @@
 ---
 
 * dwell on 详述，细想
-* 
+* take time out to do 暂停下来/ cannot take time out
