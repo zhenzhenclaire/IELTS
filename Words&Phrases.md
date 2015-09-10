@@ -17,4 +17,4 @@
 * dwell on 详述，细想
 * take time out to do 暂停下来/ cannot take time out/ We can take out time.放心享受我们的好时光
 * .. is at a loss to know 迷惘的想，不太清楚
-* 
+* Likewise 同样的
