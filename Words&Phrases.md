@@ -7,7 +7,7 @@
 * **Why would it be so? Primarily, because...**
 * **There are marked differences in the way that...**
 * **It's also acknowledged that...**
-* **drawn into a debate that...**
+* She will not be **drawn into a debate over whether** one gender is smarter than or superior to the other.
 
 
 
