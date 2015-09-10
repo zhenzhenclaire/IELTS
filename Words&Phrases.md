@@ -5,7 +5,7 @@
 * We may be **neglecting an important facet of** the human experience.
 * **Firstly, in some very fundamental respects,...**
 * **Why would it be so? Primarily, because...**
-* 
+* **There are marked differences in the way that...**
 
 
 
