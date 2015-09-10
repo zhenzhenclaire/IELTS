@@ -6,3 +6,12 @@
 * **Firstly, in some very fundamental respects,...**
 * **Why would it be so? Primarily, because...**
 * 
+
+
+
+
+
+---
+
+* dwell on 详述，细想
+* 
