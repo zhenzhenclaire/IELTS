@@ -8,6 +8,7 @@
 * **There are marked differences in the way that...**
 * **It's also acknowledged that...**
 * She will not be **drawn into a debate over whether** one gender is smarter than or superior to the other.
+* 
 
 
 
@@ -20,4 +21,4 @@
 * .. is at a loss to know 迷惘的想，不太清楚
 * Likewise 同样的
 * garner information 获得信息
-* 
+* diverse focus to ..
