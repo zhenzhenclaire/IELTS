@@ -14,4 +14,6 @@
 ---
 
 * dwell on 详述，细想
-* take time out to do 暂停下来/ cannot take time out
+* take time out to do 暂停下来/ cannot take time out/ We can take out time.放心享受我们的好时光
+* 
+* 
