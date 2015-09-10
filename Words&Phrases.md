@@ -21,4 +21,4 @@
 * .. is at a loss to know 迷惘的想，不太清楚
 * Likewise 同样的
 * garner information 获得信息
-* diverse focus to ..
+* diverse focus to .. 转移注意力
