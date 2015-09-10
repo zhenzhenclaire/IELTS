@@ -25,7 +25,7 @@
 | Point        | Answers           | Examples  |
 | ------------- |:-------------:| -----:|
 | Place    |fitness center <br> keep fit studio <br> tennis court <br> swimming pool <br> golf club|  |
-| Subject  |Yoga<br>  judo<br> kick boxing<br> kongfu<br>| |
+| Subject  |Yoga<br>  judo<br> kick boxing<br> kongfu<br> stretch<br>| |
 | Entertainment place |bar<br> restaurant<br>|  |
 | Membership        | class |  |
 | Time & Cost(Table)  | |  |
