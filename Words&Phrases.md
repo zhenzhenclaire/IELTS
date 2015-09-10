@@ -6,7 +6,7 @@
 * **Firstly, in some very fundamental respects,...**
 * **Why would it be so? Primarily, because...**
 * **There are marked differences in the way that...**
-* 
+* **It's also acknowledged that...**
 
 
 
@@ -18,3 +18,5 @@
 * take time out to do 暂停下来/ cannot take time out/ We can take out time.放心享受我们的好时光
 * .. is at a loss to know 迷惘的想，不太清楚
 * Likewise 同样的
+* garner information 获得信息
+* 
