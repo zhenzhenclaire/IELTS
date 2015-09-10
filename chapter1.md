@@ -27,7 +27,7 @@
 | Place    |fitness center <br> keep fit studio <br> tennis court <br> swimming pool <br> golf club|  |
 | Subject  |Yoga<br>  judo<br> kick boxing<br> kongfu<br> stretch<br>| |
 | Entertainment place |bar<br> restaurant<br>|  |
-| Membership        | class | Gold <br> Silver<br> Bronze |
+| Membership        | class <br> use of facilities<br> joining fee <br> annual subscription fee| Gold <br> Silver<br> Bronze<br> |
 | Time & Cost(Table)  | |  |
 | Contact | instructor<br> receptionist<br>|  |
 | Personal info |time arrangement <br> health condition| ||
