@@ -7,9 +7,9 @@
 | Position      | waiter<br> receptionist<br> social/office/manage/teacher assistant<br> cleaner<br> reporter<br> kitchen hand <br> babysitter<br> |  |
 | Pay/hour      | 7 pounds 50 <br> 7 pounds <br> 6.5-7.5(usually)  |    |
 | Welfare | free meals(breakfast, lunch, dinner)<br>  break<br>  training<br> |     |
-| Dress code | color(white/black)| shirt <br> tie <br> waist coat<br> leather shoes|
+| Dress code | color(white/black)| shoes<br> shirt<br> trousers<br> apron<br> shirt <br> tie <br> waist coat<br> leather shoes|
 | Time & Location(Spelling) |||
-| Materials & Arrangement | student ID card<br> driving liscense<br> reference<br> recommendation letter|||
+| Materials & Arrangement | student ID card<br> driving liscense<br> reference<br> recommendation letter<br> CV<br> passport<br> tax number<br>|||
 
 ## 2. 课程
 | Point        | Answers           | Examples  |
