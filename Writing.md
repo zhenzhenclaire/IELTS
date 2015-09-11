@@ -43,6 +43,12 @@
 * 表示比例大小：most principle/ percentage/ significant /least proportion/ maintain middle proportion
 * 占比：make up/ occupy/ 
 
+##Flow chart
+* 语态：一般现在时，被动语态
+* 一图一段
+* 注意衔接词：in the first place/ first of all
+
+
 
 
 
