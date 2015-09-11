@@ -45,8 +45,11 @@
 
 ##Flow chart
 * 语态：一般现在时，被动语态
-* 一图一段
-* 注意衔接词：in the first place/ first of all
+* 一图一段，按步骤分段，
+* 用衔接词（in the first place/ first of all） 和被动语态交代变化
+* what comes out
+
+
 
 
 
