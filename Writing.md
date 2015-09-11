@@ -48,6 +48,7 @@
 * 一图一段，按步骤分段，
 * 用衔接词（in the first place/ first of all） 和被动语态交代变化
 * what comes out
+* 如果流程很简单的话- It is relatively easy/simple to produce ... ,because only ... materials will be used to ..
 
 
 
