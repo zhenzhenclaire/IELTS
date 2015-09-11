@@ -17,11 +17,15 @@
 
 相关词汇：
 * 表示趋势
- * 大幅上升：
- * 中速下降
- * 缓慢波动
+ * 大幅上升：increase
+ * 中速下降: decrease
+ * 缓慢波动: slight/stable
 * 特殊点：
- * 
+ * 交叉点（超越关系）
+ * 最高点：peak/ highest point/ summit
+ * 最低点：bottom/ lowest point
+ * 保持平稳：remain unchanged
+* 
 
 句型：
 * There be
