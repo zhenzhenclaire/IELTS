@@ -40,7 +40,7 @@
 6. 结尾：所有的百分比的特点（有孩子的会更贫困）
 
 相关词汇：
-* 表示比例大小：most principle/ percentage/ significant /least proportion
+* 表示比例大小：most principle/ percentage/ significant /least proportion/ maintain middle proportion
 * 占比：make up/ occupy/ 
 
 
