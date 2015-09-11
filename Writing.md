@@ -50,6 +50,27 @@
 * what comes out
 * 如果流程很简单的话- It is relatively easy/simple to produce ... ,because only ... materials will be used to ..
 
+## Bar chart
+* 将来的时间变化用将来时
+* 连同一件事的顶端变成趋势，统计分析上升和下降次数
+
+相关词汇：
+* 表将来：be projected/predicted/expected to
+
+## Pie chart
+1. 开头：复述题目
+2. 将动态饼图变成表格，列出变化
+3. 结尾
+
+## Map
+* 方向（NEWSC）+ 位置（locate/site/lie/situate） 
+
+
+
+
+
+
+
 
 
 
