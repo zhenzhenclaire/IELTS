@@ -1,3 +1,4 @@
+
 #Type: Line, Table, Flow chart
 
 
@@ -66,6 +67,16 @@
 * 方向（NEWSC）+ 位置（locate/site/lie/situate） 
 
 
+
+---
+Part2
+
+| Topic | Content | Points |
+| -- | -- | -- |
+| Social |  |  |
+| Technology | Advantages & Disadvantages | Effectiveness & Convenience|
+| Politics | | Government responsibility & Taxes ; Limited budget|
+| Education | |Good job|
 
 
 
