@@ -18,9 +18,10 @@
 
 相关词汇：
 * 表示趋势
- * illustrate the changes in ... 
+ 
  * measured in five-yearly intervals
  * In general/ over the period/ overall
+ * 
  * 大幅：markedly/dramatic
  * 上升：increase/start to grow
  * 中速：
@@ -117,6 +118,9 @@
  * Overall,the two cities **have approximately the same** annual rainfall.
  * 
  
+描述内容：
+* The graph gives information about...
+* The line chart illustrate the changes in ... 
 
 
 
