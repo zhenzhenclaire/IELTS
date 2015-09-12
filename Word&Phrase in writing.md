@@ -16,6 +16,8 @@
 ## 主要的相同点：
 * 值相同
  * Overall,the two cities **have approximately the same** annual rainfall.
+* 趋势相同
+ * A and B shows the same pattern
  
 
 ## 描述内容：
