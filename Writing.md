@@ -102,8 +102,6 @@
  * be predicted
  * be expected to
 
-占比：
-* take the biggest part
 
 表示趋势：
  * In general
@@ -154,6 +152,7 @@
 * 比例大/小
  * most principle/percentage/ 
  * significant /least proportion/ 
+ * * take the biggest part
 * 比例中间
  * maintain middle proportion
 * 占比
