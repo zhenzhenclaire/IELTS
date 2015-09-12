@@ -107,9 +107,11 @@
 
 
 表示趋势：
- * In general
- * over the period
- * overall
+ * 总体趋势
+  * In general
+  * over the period
+  * overall
+  
  
  * 大幅：
   * markedly
