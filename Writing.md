@@ -120,6 +120,7 @@
  * 下降: 
   * decrease
   * decline
+  * drop
  * 平稳：
   * slightly
   * small and steady
