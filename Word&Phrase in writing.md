@@ -105,6 +105,7 @@
  * make up
  * occupy
  * consume 25%
+ * account for 
  * take the biggest part
  * shows the proportion/percentage of ...
  * have the same proportion of ... and ..., with 65% A to 35% B.
