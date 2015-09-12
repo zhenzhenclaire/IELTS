@@ -99,6 +99,7 @@
 * 比例中间
  * maintain middle proportion
  * almost equal
+ * slightly more than hafl
 * 占比
  * make up
  * occupy
