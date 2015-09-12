@@ -21,7 +21,7 @@
  * measured in five-yearly intervals
  * In general/ over the period
  * 大幅：markedly/dramatic
- * 上升：increase
+ * 上升：increase/start to grow
  * 中速：
  * 下降: decrease/decline
  * 缓慢：slightly
