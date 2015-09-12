@@ -39,6 +39,8 @@
 * 主谓
 * 被动
 
+---
+
 ##Table 静态题（同一年，比大小）
 1. **开头：**复述题目 + 总结（看最后一行）
 2. 归类：
@@ -51,6 +53,8 @@
 * 表示比例大小：most principle/ percentage/ significant /least proportion/ maintain middle proportion
 * 占比：make up/ occupy/ 
 
+---
+
 ##Flow chart
 * 语态：一般现在时，被动语态
 * 一图一段，按步骤分段，
@@ -58,12 +62,19 @@
 * what comes out
 * 如果流程很简单的话- It is relatively easy/simple to produce ... ,because only ... materials will be used to ..
 
+---
+
 ## Bar chart
 * 将来的时间变化用将来时
 * 连同一件事的顶端变成趋势，统计分析上升和下降次数
 
 相关词汇：
 * 表将来：be projected/predicted/expected to
+
+
+---
+
+
 
 ## Pie chart
 动态饼图
@@ -75,7 +86,7 @@
 1. 开头：复述题目
 2. 描述占比最大的内容及其数量
 3. 如果有别的图，复合起来描述趋势
-4. 
+4. 结尾
 
 
 相关词汇：
@@ -83,6 +94,7 @@
 
 ## Map
 * 方向（NEWSC）+ 位置（locate/site/lie/situate） 
+
 
 
 
