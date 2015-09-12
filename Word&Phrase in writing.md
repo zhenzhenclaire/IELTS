@@ -63,6 +63,7 @@
   * small and steady
   * level off
   * stable
+  * balanced 
   
  * 波动: 
   * fluctuate
