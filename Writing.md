@@ -135,9 +135,10 @@
 * measured in five-yearly intervals
 * measured in millimetres per month
 
-将来
+将来预计：
  * be projected
- * predicted/expected to
+ * predicted
+ * expected to
 
 
 ---
