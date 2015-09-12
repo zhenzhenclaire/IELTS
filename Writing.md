@@ -66,9 +66,17 @@
 * 表将来：be projected/predicted/expected to
 
 ## Pie chart
+动态饼图
 1. 开头：复述题目
 2. 将动态饼图变成表格，列出变化
 3. 结尾
+
+静态饼图：
+1. 开头：复述题目
+2. 描述占比最大的内容及其数量
+3. 如果有别的图，复合起来描述趋势
+4. 
+
 
 相关词汇：
 * 占比：take the biggest part
