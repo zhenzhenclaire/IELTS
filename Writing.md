@@ -14,6 +14,7 @@
 4. **结尾：**总结全部线的关系（大小关系对比）
 
 **注意时态**
+**在开头介绍趋势时要加上测量单位：** measured in millimetres per month
 
 相关词汇：
 * 表示趋势
@@ -103,6 +104,7 @@
  * They have their most/least rain in different months.）
 * 趋势不同
  * They have a different pattern of rainfall, and A has more fluctuating rainfall than B 
+ * 
 
 
 
