@@ -50,6 +50,7 @@
   * start to grow
   * A stands at ... and this number rose to where it is currently at around...
   * upward surge （向上飙升）
+  * soar（猛涨）
  * 中速：
  * 下降: 
   * decrease
