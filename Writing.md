@@ -24,7 +24,7 @@
  * 上升：increase/start to grow
  * 中速：
  * 下降: decrease/decline
- * 缓慢：slightly
+ * 缓慢：slightly/ small and steady
  * 波动: stable
  
 * 特殊点：
