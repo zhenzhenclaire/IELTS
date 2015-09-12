@@ -19,6 +19,7 @@
 * 表示趋势
  * illustrate the changes in ... 
  * measured in five-yearly intervals
+ * In general/ over the period
  * 大幅上升：increase
  * 中速下降: decrease
  * 缓慢波动: slight/stable
