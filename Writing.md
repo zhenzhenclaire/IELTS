@@ -135,10 +135,19 @@
 特殊点：
  * 交叉点（超越关系）
   * It is projected to peak at ...
- * 最高点：peak/ highest point/ summit/ at a high of 
- * 最低点：bottom/ lowest point
- * 保持平稳：remain unchanged/steady
- * 大约：approximately/ over
+ * 最高点
+  * peak 
+  * highest point summit
+  * at a high of 
+ * 最低点：
+  * bottom
+  * lowest point
+ * 保持平稳：
+  * remain unchanged
+  * steady
+ * 大约：
+  * approximately
+  * over
 
 
 
