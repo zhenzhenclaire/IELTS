@@ -152,13 +152,12 @@
 * 比例大/小
  * most principle/percentage/ 
  * significant /least proportion/ 
- 
 * 比例中间
  * maintain middle proportion
 * 占比
  * make up
  * occupy
- * * take the biggest part
+ * take the biggest part
 
 
 ---
