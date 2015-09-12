@@ -146,7 +146,7 @@
  * 保持平稳
   * remain unchanged
   * steady
- * 大约：
+ * 大约
   * approximately
   * over
 
