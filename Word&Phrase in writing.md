@@ -91,7 +91,7 @@
 
 ## 表示比例大小：
 * 比例大/小
- * most principle/percentage/ 
+ * have the most principle/percentage/ 
  * significant /least proportion/
  * dominated by 
 * 比例中间
