@@ -106,7 +106,8 @@
  * They have their most/least rain in different months.）
 * 趋势不同
  * They have a different pattern of rainfall, and A has more fluctuating rainfall than B 
- * 
+* 分布不同
+ * The distribution of this rain over the year is widly different. 
 
 
 
