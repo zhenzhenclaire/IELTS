@@ -132,6 +132,7 @@
   * small and steady
   * level off
   * stable
+  
  * 波动: 
   * fluctuate
  
