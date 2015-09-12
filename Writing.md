@@ -103,6 +103,7 @@
  * be projected
  * be predicted
  * be expected to
+ * it will continue
 
 
 表示趋势：
