@@ -25,7 +25,10 @@
   * A stands at ... and this number rose to where it is currently at around...
  * 中速：
  * 下降: decrease/decline
- * 缓慢：slightly/ small and steady
+ * 平稳：
+  * slightly
+  * small and steady
+  * level off
  * 波动: stable/ fluctuate
  
 * 特殊点：
