@@ -102,9 +102,6 @@
 4. 结尾
 
 
-相关词汇：
-* 占比：take the biggest part
-
 
 ---
 ## Map
@@ -140,7 +137,7 @@
  * be predicted
  * be expected to
 
-
+* 占比：take the biggest part
 ---
 Part2
 
