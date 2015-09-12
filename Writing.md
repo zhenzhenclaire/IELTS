@@ -20,7 +20,7 @@
  * illustrate the changes in ... 
  * measured in five-yearly intervals
  * In general/ over the period
- * 大幅：markedly
+ * 大幅：markedly/dramatic
  * 上升：increase
  * 中速：
  * 下降: decrease/decline
