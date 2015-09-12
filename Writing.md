@@ -82,7 +82,6 @@
 * 
 
 相关词汇：
-* 表将来：be projected/predicted/expected to
 * 两个legend相比较：the bar charts compares the average amount of annual rainfall in two cities, A and B.
 
 
@@ -135,6 +134,10 @@
 测量单位：
 * measured in five-yearly intervals
 * measured in millimetres per month
+
+表将来
+ * be projected
+ * predicted/expected to
 
 
 ---
