@@ -112,6 +112,7 @@
  * 大幅：
   * markedly
   * dramatic
+  * rapidly
  * 上升
   * increase
   * start to grow
