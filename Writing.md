@@ -25,7 +25,7 @@
  * 中速：
  * 下降: decrease/decline
  * 缓慢：slightly/ small and steady
- * 波动: stable/ fluctuated
+ * 波动: stable/ fluctuate
  
 * 特殊点：
  * 交叉点（超越关系）
