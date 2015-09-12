@@ -106,6 +106,7 @@
  * occupy
  * take the biggest part
  * shows the proportion/percentage of ...
+ * have the same proportion of 
 
 ## 然而：
 * whereas
