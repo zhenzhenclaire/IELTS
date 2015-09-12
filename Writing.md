@@ -68,9 +68,11 @@
 ## Bar chart
 * 将来的时间变化用将来时
 * 连同一件事的顶端变成趋势，统计分析上升和下降次数
+* 
 
 相关词汇：
 * 表将来：be projected/predicted/expected to
+* 两个legend相比较：the bar charts compares the average amount of annual rainfall in two cities, A and B.
 
 
 ---
