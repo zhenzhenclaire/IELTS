@@ -98,6 +98,7 @@
  * dominated by 
 * 比例中间
  * maintain middle proportion
+ * almost equal
 * 占比
  * make up
  * occupy
