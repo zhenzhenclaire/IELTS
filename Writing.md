@@ -137,7 +137,8 @@
  * be predicted
  * be expected to
 
-* 占比：take the biggest part
+占比：
+* take the biggest part
 ---
 Part2
 
