@@ -140,10 +140,10 @@
   * peak 
   * highest point summit
   * at a high of 
- * 最低点：
+ * 最低点
   * bottom
   * lowest point
- * 保持平稳：
+ * 保持平稳
   * remain unchanged
   * steady
  * 大约：
