@@ -121,7 +121,7 @@
   * increase
   * start to grow
   * A stands at ... and this number rose to where it is currently at around...
-  * upward surge
+  * upward surge （向上飙升）
  * 中速：
  * 下降: 
   * decrease
