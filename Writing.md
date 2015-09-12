@@ -111,7 +111,6 @@
   * In general
   * over the period
   * overall
-  
  
  * 大幅：
   * markedly
