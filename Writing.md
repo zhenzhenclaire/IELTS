@@ -26,12 +26,13 @@
  * 下降: decrease/decline
  * 缓慢：slightly
  * 波动: stable
+ 
 * 特殊点：
  * 交叉点（超越关系）
  * 最高点：peak/ highest point/ summit
  * 最低点：bottom/ lowest point
  * 保持平稳：remain unchanged
- * 大致相同：approximately the same
+ * 大约：approximately/over
 
 句型：
 * There be
