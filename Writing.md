@@ -20,9 +20,12 @@
  * illustrate the changes in ... 
  * measured in five-yearly intervals
  * In general/ over the period
- * 大幅上升：increase
- * 中速下降: decrease
- * 缓慢波动: slight/stable
+ * 大幅：markedly
+ * 上升：increase
+ * 中速：
+ * 下降: decrease
+ * 缓慢：
+ * 波动: slight/stable
 * 特殊点：
  * 交叉点（超越关系）
  * 最高点：peak/ highest point/ summit
