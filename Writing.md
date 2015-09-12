@@ -137,8 +137,8 @@
 
 将来预计：
  * be projected
- * predicted
- * expected to
+ * be predicted
+ * be expected to
 
 
 ---
