@@ -1,4 +1,5 @@
-主要的不同点：
+
+## 主要的不同点：
 * 总结：
  * Overall, the major difference between the two ... trends is that... 
 * 最值所在的横坐标不同
@@ -12,20 +13,20 @@
  * **The distribution of** this rain over the year is widely different.
  * They have **a different pattern of** rainfall
 
-主要的相同点：
+## 主要的相同点：
 * 值相同
  * Overall,the two cities **have approximately the same** annual rainfall.
  
-描述内容：
+## 描述内容：
 * The graph gives information about...
 * The line chart illustrates the changes in ... 
 * The data indicates that ...
 
-测量单位：
+## 测量单位：
 * measured in five-yearly intervals
 * measured in millimetres per month
 
-将来预计：
+## 将来预计：
  * be projected
  * be predicted
  * be expected to
@@ -33,7 +34,7 @@
  * be forecast to 
 
 
-表示趋势：
+## 表示趋势：
  * 总体趋势
   * In general
   * over the period
@@ -63,7 +64,8 @@
  * 波动: 
   * fluctuate
  
-特殊点：
+## 特殊点：
+
  * 交叉点（超越关系）
   * It is projected to peak at ...
  * 最高点
@@ -80,11 +82,11 @@
   * approximately
   * over
 
-相比较：
+## 相比较：
 * In contrast
 * Although
 
-表示比例大小：
+## 表示比例大小：
 * 比例大/小
  * most principle/percentage/ 
  * significant /least proportion/ 
@@ -95,5 +97,5 @@
  * occupy
  * take the biggest part
 
-然而：
+## 然而：
 * whereas
