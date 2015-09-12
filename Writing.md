@@ -145,6 +145,8 @@
   * approximately
   * over
 
+相比较：
+
 表示比例大小：
 * 比例大/小
  * most principle/percentage/ 
