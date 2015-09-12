@@ -105,9 +105,10 @@
 * 最值所在的横坐标不同
  * They have their most/least rain in different months.）
 * 趋势不同
- * They have a different pattern of rainfall, and A has more fluctuating rainfall than B 
+ * A has **more fluctuating** rainfall than B 
 * 分布不同
- * **The distribution of** this rain over the year is widely different. 
+ * **The distribution of** this rain over the year is widely different.
+ * They have **a different pattern of** rainfall
 
 
 
