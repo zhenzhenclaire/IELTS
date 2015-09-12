@@ -18,7 +18,10 @@
  * Overall,the two cities **have approximately the same** annual rainfall.
 * 趋势相同
  * A and B shows a similar pattern.
- 
+
+## 然而：
+* whereas/while... illustrates a different trend.
+* 
 
 ## 描述内容：
 * The graph gives information about...
@@ -114,5 +117,4 @@
  * shows the proportion/percentage of ...
  * have the same proportion of ... and ..., with 65% A to 35% B.
 
-## 然而：
-* whereas
+
