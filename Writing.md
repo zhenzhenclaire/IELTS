@@ -14,14 +14,11 @@
 4. **结尾：**总结全部线的关系（大小关系对比）
 
 **注意时态**
-**在开头介绍趋势时要加上测量单位：** measured in millimetres per month
+
 
 相关词汇：
 * 表示趋势
- 
- * measured in five-yearly intervals
  * In general/ over the period/ overall
- * 
  * 大幅：markedly/dramatic
  * 上升：increase/start to grow
  * 中速：
@@ -122,6 +119,9 @@
 * The graph gives information about...
 * The line chart illustrates the changes in ... 
 
+测量单位：
+* measured in five-yearly intervals
+* 
 
 
 ---
