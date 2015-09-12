@@ -106,7 +106,7 @@
  * occupy
  * take the biggest part
  * shows the proportion/percentage of ...
- * have the same proportion of 
+ * have the same proportion of ... and ..., with 65% A to 35% B.
 
 ## 然而：
 * whereas
