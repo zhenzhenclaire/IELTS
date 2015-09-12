@@ -111,7 +111,7 @@
 占比：
 * take the biggest part
 
-* 表示趋势
+表示趋势
  * In general
  * over the period
  * overall
@@ -132,13 +132,14 @@
   * level off
  * 波动: stable/ fluctuate
  
-* 特殊点：
+特殊点：
  * 交叉点（超越关系）
   * It is projected to peak at ...
  * 最高点：peak/ highest point/ summit/ at a high of 
  * 最低点：bottom/ lowest point
  * 保持平稳：remain unchanged/steady
  * 大约：approximately/ over
+
 
 
 ---
