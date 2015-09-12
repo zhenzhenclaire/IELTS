@@ -99,8 +99,10 @@
 
 ---
 主要的不同点：
-* 最值所在的横坐标不同（They have their most/least rain in different months.）
-* 
+* 最值所在的横坐标不同
+ * They have their most/least rain in different months.）
+* 趋势不同
+ * They have a different pattern of rainfall, and A has more fluctuating rainfall than B 
 
 
 
