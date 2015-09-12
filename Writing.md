@@ -140,7 +140,7 @@
  * 交叉点（超越关系）
   * It is projected to peak at ...
  * 最高点
-  * peak 
+  * reach a peak of
   * highest point summit
   * at a high of 
  * 最低点
