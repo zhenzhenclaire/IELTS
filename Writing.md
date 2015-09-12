@@ -116,10 +116,12 @@
   * markedly
   * dramatic
   * rapidly
+  
  * 上升
   * increase
   * start to grow
   * A stands at ... and this number rose to where it is currently at around...
+  * upward surge
  * 中速：
  * 下降: 
   * decrease
