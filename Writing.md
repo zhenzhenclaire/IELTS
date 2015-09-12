@@ -19,7 +19,7 @@
 * 表示趋势
  * illustrate the changes in ... 
  * measured in five-yearly intervals
- * In general/ over the period
+ * In general/ over the period/ overall
  * 大幅：markedly/dramatic
  * 上升：increase/start to grow
  * 中速：
