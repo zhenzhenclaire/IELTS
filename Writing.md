@@ -130,7 +130,8 @@
   * slightly
   * small and steady
   * level off
- * 波动: stable/ fluctuate
+ * 波动: stable
+  * fluctuate
  
 特殊点：
  * 交叉点（超越关系）
