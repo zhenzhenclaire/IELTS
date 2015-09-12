@@ -88,6 +88,7 @@
 ## 相比较：
 * In contrast
 * Although
+* Notably(显著地)
 
 ## 表示比例大小：
 * 比例大/小
