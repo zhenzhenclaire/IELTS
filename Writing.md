@@ -18,13 +18,20 @@
 
 相关词汇：
 * 表示趋势
- * In general/ over the period/ overall
- * 大幅：markedly/dramatic
+ * In general
+ * over the period
+ * overall
+ * 大幅：
+  * markedly
+  * dramatic
  * 上升
-  * increase/start to grow
+  * increase
+  * start to grow
   * A stands at ... and this number rose to where it is currently at around...
  * 中速：
- * 下降: decrease/decline
+ * 下降: 
+  * decrease
+  * decline
  * 平稳：
   * slightly
   * small and steady
