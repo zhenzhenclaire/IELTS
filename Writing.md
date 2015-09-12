@@ -23,8 +23,8 @@
  * 大幅：markedly
  * 上升：increase
  * 中速：
- * 下降: decrease
- * 缓慢：
+ * 下降: decrease/decline
+ * 缓慢：slightly
  * 波动: slight/stable
 * 特殊点：
  * 交叉点（超越关系）
