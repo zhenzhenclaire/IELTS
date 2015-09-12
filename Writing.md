@@ -31,7 +31,7 @@
  * 最高点：peak/ highest point/ summit
  * 最低点：bottom/ lowest point
  * 保持平稳：remain unchanged
- * 大致相同： 
+ * 大致相同：approximately the same
 
 句型：
 * There be
