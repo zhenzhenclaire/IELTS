@@ -21,7 +21,7 @@
 
 ## 然而：
 * whereas/while... illustrates a different trend.
-* in contrast, only
+* in contrast, only...
 * 
 
 ## 描述内容：
@@ -70,6 +70,7 @@
   * small and steady
   * level off
   * stable
+  * even
   * balanced
   
  * 波动: 
