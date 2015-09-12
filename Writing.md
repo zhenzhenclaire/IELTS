@@ -131,7 +131,8 @@
   * slightly
   * small and steady
   * level off
- * 波动: stable
+  * stable
+ * 波动: 
   * fluctuate
  
 特殊点：
