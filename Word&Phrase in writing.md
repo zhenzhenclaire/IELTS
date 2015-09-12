@@ -98,7 +98,7 @@
  * make up
  * occupy
  * take the biggest part
- * shows the proportion of 
+ * shows the proportion of ...
 
 ## 然而：
 * whereas
