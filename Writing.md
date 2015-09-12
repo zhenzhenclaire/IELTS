@@ -32,10 +32,6 @@
  5. 主3：6% 4%（比例小、共性：aged、差距：夫妻）
 6. 结尾：所有的百分比的特点（有孩子的会更贫困）
 
-相关词汇：
-* 表示比例大小：most principle/ percentage/ significant /least proportion/ maintain middle proportion
-* 占比：make up/ occupy/ 
-
 ---
 
 ##Flow chart
@@ -50,15 +46,12 @@
 ## Bar chart
 * 将来的时间变化用将来时
 * 连同一件事的顶端变成趋势，统计分析上升和下降次数
-* 
 
 相关词汇：
 * 两个legend相比较：the bar charts compares the average amount of annual rainfall in two cities, A and B.
 
 
 ---
-
-
 
 ## Pie chart
 动态饼图
@@ -71,8 +64,6 @@
 2. 描述占比最大的内容及其数量
 3. 如果有别的图，复合起来描述趋势
 4. 结尾
-
-
 
 ---
 ## Map
@@ -153,6 +144,13 @@
   * approximately
   * over
 
+表示比例大小：
+* 比例大/
+ * most principle/percentage/ 
+ * significant /least proportion/ 
+* 比例中间
+ * maintain middle proportion
+* 占比：make up/ occupy/ 
 
 
 ---
