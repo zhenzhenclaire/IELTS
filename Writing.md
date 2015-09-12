@@ -32,7 +32,7 @@
  * 最高点：peak/ highest point/ summit
  * 最低点：bottom/ lowest point
  * 保持平稳：remain unchanged
- * 大约：approximately/over
+ * 大约：approximately/ over
 
 句型：
 * There be
