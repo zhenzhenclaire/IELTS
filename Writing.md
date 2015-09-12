@@ -25,7 +25,7 @@
  * 中速：
  * 下降: decrease/decline
  * 缓慢：slightly
- * 波动: slight/stable
+ * 波动: stable
 * 特殊点：
  * 交叉点（超越关系）
  * 最高点：peak/ highest point/ summit
