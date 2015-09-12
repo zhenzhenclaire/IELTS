@@ -111,7 +111,7 @@
 占比：
 * take the biggest part
 
-表示趋势
+表示趋势：
  * In general
  * over the period
  * overall
