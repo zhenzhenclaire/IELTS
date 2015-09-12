@@ -55,6 +55,7 @@
   * decrease
   * decline
   * drop
+  * fall
  * 平稳：
   * slightly
   * small and steady
