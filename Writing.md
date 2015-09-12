@@ -147,6 +147,7 @@
 
 相比较：
 * In contrast
+* Although
 
 表示比例大小：
 * 比例大/小
