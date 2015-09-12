@@ -105,6 +105,7 @@
  * make up
  * occupy
  * consume 25%
+ * over half the total
  * account for 
  * be responsible for 
  * take the biggest part
