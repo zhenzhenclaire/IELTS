@@ -2,6 +2,7 @@
 ## 主要的不同点：
 * 总结：
  * Overall, the major difference between the two ... trends is that... 
+ * There is a large ... disparity in ...
 * 最值所在的横坐标不同
  * They have their most/least rain in different months.
  * 
