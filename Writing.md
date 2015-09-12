@@ -17,35 +17,6 @@
 
 
 相关词汇：
-* 表示趋势
- * In general
- * over the period
- * overall
- * 大幅：
-  * markedly
-  * dramatic
- * 上升
-  * increase
-  * start to grow
-  * A stands at ... and this number rose to where it is currently at around...
- * 中速：
- * 下降: 
-  * decrease
-  * decline
- * 平稳：
-  * slightly
-  * small and steady
-  * level off
- * 波动: stable/ fluctuate
- 
-* 特殊点：
- * 交叉点（超越关系）
-  * It is projected to peak at ...
- * 最高点：peak/ highest point/ summit/ at a high of 
- * 最低点：bottom/ lowest point
- * 保持平稳：remain unchanged/steady
- * 大约：approximately/ over
-
 句型：
 * There be
 * 主谓
@@ -139,6 +110,37 @@
 
 占比：
 * take the biggest part
+
+* 表示趋势
+ * In general
+ * over the period
+ * overall
+ * 大幅：
+  * markedly
+  * dramatic
+ * 上升
+  * increase
+  * start to grow
+  * A stands at ... and this number rose to where it is currently at around...
+ * 中速：
+ * 下降: 
+  * decrease
+  * decline
+ * 平稳：
+  * slightly
+  * small and steady
+  * level off
+ * 波动: stable/ fluctuate
+ 
+* 特殊点：
+ * 交叉点（超越关系）
+  * It is projected to peak at ...
+ * 最高点：peak/ highest point/ summit/ at a high of 
+ * 最低点：bottom/ lowest point
+ * 保持平稳：remain unchanged/steady
+ * 大约：approximately/ over
+
+
 ---
 Part2
 
