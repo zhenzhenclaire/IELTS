@@ -92,7 +92,7 @@
 ## 表示比例大小：
 * 比例大/小
  * have the most principle/percentage/ 
- * significant /least proportion/
+ * significant /least proportion
  * dominated by 
 * 比例中间
  * maintain middle proportion
