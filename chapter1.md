@@ -57,7 +57,7 @@
 ## 6. 银行
 | Point        | Answers           | Examples  |
 | ------------- |:-------------:| -----:|
-| Type | cash card <br> debit card<br> credit card<br> cheque Granantee card<br> current account<br> deposit account<br> savings card<br> joint account<br>||
+| Type | cash card <br> debit card<br> credit card<br> cheque Granantee card<br> current account<br> deposit account<br> savings card<br> joint account<br>|||
 
 
 # Section 2 
