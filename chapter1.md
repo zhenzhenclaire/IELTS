@@ -59,7 +59,7 @@
 | ------------- |:-------------:| -----:|
 | Type | cash card <br> debit card<br> credit card<br> savings card<br> cheque Granantee card<br> current account<br> deposit account<br>  joint account<br>|||
 | Amount | opening sum||
-| Services| insurance <br> loans<br> Internet services<br>}}
+| Services| insurance <br> loans<br> Internet services<br>||
 
 
 
