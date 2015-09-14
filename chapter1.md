@@ -50,6 +50,16 @@
 | Facility| Kitchen (refrigerator, micro-wave oven, rice-cooker, toaster) <br> bed-linen <br> Garage <br> park <br> yard<br> swimming pool<br> | |
 | Surroundings | bank<br> post office<br> hospital<br> restaurant<br> bar<br> || |
 
+
+
+---
+
+## 6. 银行
+| Point        | Answers           | Examples  |
+| ------------- |:-------------:| -----:|
+| Type | cash card <br> debit card<br> credit card<br> cheque Granantee card<br> current account<br> deposit account<br> savings card<br> joint account<br>||
+
+
 # Section 2 
 ## 1. 旅游
 
