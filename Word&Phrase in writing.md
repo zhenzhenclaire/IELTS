@@ -84,6 +84,7 @@
   * reach a peak of
   * highest point summit
   * at a high of 
+  * peaking at
  * 最低点
   * bottom
   * lowest point
