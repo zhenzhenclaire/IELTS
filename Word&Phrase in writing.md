@@ -22,7 +22,6 @@
 ## 然而：
 * whereas/while... illustrates a different trend.
 * in contrast, only...
-* 
 
 ## 描述内容：
 * The graph gives information about...
