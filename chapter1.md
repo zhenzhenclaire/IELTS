@@ -77,7 +77,7 @@
 ## 2. 活动
 | Point        | Answers           | Examples  |
 | ------------- |:-------------:| -----:|
-| Art activities | musical activities <br> ballet<br> magic show <br> instruments <br>| |
+| Art activities | musical activities <br> ballet<br> magic show <br> instruments <br> mid-summer festival<br> drama<br> | |
 | Sports activities | basketball <br> soccer<br> run ||
 | Background knowledge | ||
 | Content(table) | ||
