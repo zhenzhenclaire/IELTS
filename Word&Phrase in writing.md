@@ -72,6 +72,7 @@
   * stable
   * even
   * balanced
+  * gradually
   
  * 波动: 
   * fluctuate
