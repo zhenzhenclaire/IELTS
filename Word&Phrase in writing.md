@@ -54,16 +54,17 @@
   
  * 上升
   * increase
+  * rise
   * start to grow
   * A stands at ... and this number rose to where it is currently at around...
   * upward surge （向上飙升）
   * soar（猛涨）
- * 中速：
  * 下降: 
   * decrease
   * decline
   * drop
   * fall
+  * sharply
  * 平稳：
   * slightly
   * small and steady
