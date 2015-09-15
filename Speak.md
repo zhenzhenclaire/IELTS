@@ -8,7 +8,6 @@
 
 ## Work
 
-
 ## Study
 
 ## Hometown
