@@ -78,7 +78,7 @@
 | Point        | Answers           | Examples  |
 | ------------- |:-------------:| -----:|
 | Art activities | musical activities <br> ballet<br> magic show <br> instruments <br> mid-summer festival<br> drama<br> circus<br> puppet<br> magic performance<br> aerial performance<br> acrobatics<br> theatric performance<br> street dancing<br> orchestra<br> ballet<br> pop group<br> model making<br>| |
-| Sports activities | basketball <br> soccer<br> run <br> weight training<br> aerobics<br> workout<br> jogging<br> yoga<br> squash<br> rugby<br> ricket<br> hockey<br> curling<br> badminton<br> volleyball<br.||
+| Sports activities | basketball <br> soccer<br> run <br> weight training<br> aerobics<br> workout<br> jogging<br> yoga<br> squash<br> rugby<br> ricket<br> hockey<br> curling<br> badminton<br> volleyball<br>||
 | Background knowledge | ||
 | Content(table) | ||
 | Tips ||||
